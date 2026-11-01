@@ -36,3 +36,6 @@ ts,repo,tag,asset,count,release_published
 2026-11-01T05:43:23Z,sms,זוית,default.apk,3,2026-08-12T11:35:41Z
 2026-11-01T05:43:23Z,sms,SMS,default.apk,5,2026-08-12T05:54:18Z
 2026-11-01T05:43:23Z,taharah-desktop,A,app-debug.apk,0,2026-08-31T13:57:44Z
+2026-11-01T13:10:53Z,BT-Bridge,v0.4.0,BtBridge.apk,4,2026-11-01T03:08:34Z
+2026-11-01T13:10:53Z,BT-Bridge,v0.4.0,BtBridge.exe,3,2026-11-01T03:08:34Z
+2026-11-01T13:10:53Z,SefarimEditor,v2.2.0,SefarimEditor-2.2.0-full.zip,8,2026-10-28T14:39:45Z
