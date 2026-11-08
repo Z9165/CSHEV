@@ -96,3 +96,6 @@ ts,repo,tag,asset,count,release_published,window_start
 2026-11-08T16:44:08Z,BT-Bridge,v0.5.0,BtBridge.exe,1,2026-11-08T12:52:35Z,
 2026-11-08T16:44:08Z,Keep-Screen-On,v1.0.1,KeepScreenOn.apk,2,2026-11-08T16:15:11Z,
 2026-11-08T16:44:08Z,Keep-Screen-On,v1.0.0,KeepScreenOn.apk,1,2026-11-08T14:53:16Z,
+2026-11-08T16:47:08Z,BT-Bridge,v0.5.2,BtBridge.apk,0,2026-11-08T16:45:27Z,2026-11-08T16:44:08Z
+2026-11-08T16:47:08Z,BT-Bridge,v0.5.2,BtBridge.exe,0,2026-11-08T16:45:27Z,2026-11-08T16:44:08Z
+2026-11-08T16:47:08Z,Keep-Screen-On,v1.0.1,KeepScreenOn.apk,3,2026-11-08T16:15:11Z,2026-11-08T16:44:08Z
